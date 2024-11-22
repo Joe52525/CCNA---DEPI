@@ -1,0 +1,2 @@
+Implementing Network Security with ACLs and NAT, focuses on enhancing network security by using Access Control Lists (ACLs) and Network Address Translation (NAT). The goal is to secure internal resources while allowing controlled access to external networks. This project was structured into four weeks, where each phase built upon the previous to create a secure and manageable network infrastructure.
+
